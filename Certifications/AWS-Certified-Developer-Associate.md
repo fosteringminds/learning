@@ -51,39 +51,39 @@ I registered as a root user a while back - have done it several times already. I
 
 A very quick way to get to IAM is to use the `Find Services` section from the AWS Management Console Dashboard.
 
-[AWS Management Console Dashboard](../img/aws-management-console-dashboard.png)
+![AWS Management Console Dashboard](../img/aws-management-console-dashboard.png)
 
 You can start typing "IAM" in the textbox and click on the service in the dropdown. 
 
-[AWS Management Console Dashboard Find Service](../img/aws-management-console-dashboard-search.png)
+![AWS Management Console Dashboard Find Service](../img/aws-management-console-dashboard-search.png)
 
 ### Recently visited services
 
 The AWS Management Console shows recently used services in two places. The first is below the Find Service textbox. 
 
-[AWS Management Console Dashboard Find Service](../img/aws-management-console-dashboard-recent-services.png)
+![AWS Management Console Dashboard Find Service](../img/aws-management-console-dashboard-recent-services.png)
 
 ### All Services
 
 Below the Recently Visited Services a section for all the services is available.
 
-[AWS Management Console Dashboard All Services](../img/aws-management-console-dashboard-all-services.png)
+![AWS Management Console Dashboard All Services](../img/aws-management-console-dashboard-all-services.png)
 
 ### Services Dropdown Menu
 
 The navigation bar collapses and shows a panel with a history column on the left. On the right-side of the panel a similar listing of the services displayed in the All Services section.
 
-[AWS Management Console Services Navigation Bar](../img/aws-management-console-dashboard-services-navbar.png)
+![AWS Management Console Services Navigation Bar](../img/aws-management-console-dashboard-services-navbar.png)
 
 ### One-click navigation shortcuts
 
 Clicking on the pin in the navigation displays a panel with all the services. 
 
-[AWS Management Console Services Navigation Bar Pin](../img/aws-management-console-navbar-pin.png) 
+![AWS Management Console Services Navigation Bar Pin](../img/aws-management-console-navbar-pin.png) 
 
 Dragging the service icon onto the navigation bar adds a shortcut.
 
-[AWS Management Console Services Navigation Bar Pin](../img/aws-management-console-navbar-iam-shortcut.png) 
+![AWS Management Console Services Navigation Bar Pin](../img/aws-management-console-navbar-iam-shortcut.png) 
 
 
 
