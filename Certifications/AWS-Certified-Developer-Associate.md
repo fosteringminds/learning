@@ -73,7 +73,7 @@ Below the Recently Visited Services a section for all the services is available.
 
 The navigation bar collapses and shows a panel with a history column on the left. On the right-side of the panel a similar listing of the services displayed in the All Services section.
 
-![AWS Management Console Services Navigation Bar](../img/aws-management-console-dashboard-services-navbar.png)
+![AWS Management Console Services Navigation Bar](../img/aws-management-console-navbar-services.png)
 
 ### One-click navigation shortcuts
 
