@@ -1,4 +1,4 @@
-# Ultimate AWS Certified Developer Associate 2020
+# AWS Certified Developer Associate
 
 ## AWS Fundamentals: IAM + EC2
 
